@@ -40,7 +40,7 @@
 			<artifactId>spring-security-config</artifactId>
 			<version>${springsecurity.version}</version>
 		</dependency>
-		
+
 		<!-- Servlet, JSP and JSTL support -->
 		<dependency>
 			<groupId>javax.servlet</groupId>

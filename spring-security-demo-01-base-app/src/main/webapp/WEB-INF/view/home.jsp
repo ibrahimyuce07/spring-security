@@ -5,10 +5,10 @@
 <title>Homepage</title>
 </head>
 <body>
-<h2>This is our home page</h2>
-<hr>
+	<h2>This is our home page</h2>
+	<hr>
 
-Welcome to spring security base app home page.
+	Welcome to spring security base app home page.
 
 </body>
 </html>
