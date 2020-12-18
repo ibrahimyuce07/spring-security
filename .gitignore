@@ -1,3 +1,13 @@
 /.metadata/
 /.sonarlist/
-/.Servers/
+/.Servers2/
+Servers2/.project
+Servers2/.settings/org.eclipse.wst.server.core.prefs
+Servers2/Tomcat v8.5 Server at localhost-config/catalina.properties
+Servers2/Tomcat v8.5 Server at localhost-config/context.xml
+Servers2/Tomcat v8.5 Server at localhost-config/catalina.policy
+Servers2/Tomcat v8.5 Server at localhost-config/server.xml
+Servers2/Tomcat v8.5 Server at localhost-config/tomcat-users.xml
+Servers2/Tomcat v8.5 Server at localhost-config/web.xml
+.sonarlint/default/.sonartmp_2839823643416825408/sonarlint-slf4j-sonar-log12452952112175052702.jar
+.sonarlint/default/.sonartmp_16301264140949842353/sonarlint-slf4j-sonar-log5623414496851842756.jar
